@@ -12,6 +12,47 @@ Layer 1 establishes the scriptural text in its original language, culture, and c
 
 This system does **not** produce a final winner-picking verdict. The deliverable is a reception-history map plus three audience-shaped outputs. Many theological debates have not been resolved in 2,000 years; an honest treatment shows the shape of the conversation rather than declaring a winner.
 
+## Table of Contents
+
+- [Topic for Debate](#topic-for-debate)
+- [Theological Reception-History Debate System](#theological-reception-history-debate-system)
+- [How to Use This System](#how-to-use-this-system)
+- [Layer 1: Scripture Team](#layer-1-scripture-team-6-agents----pure-context-no-tradition-awareness)
+  - [Agent 1: Textual Analyst](#agent-1-textual-analyst)
+  - [Agent 2: Cultural/Historical Analyst](#agent-2-culturalhistorical-analyst)
+  - [Agent 3: OT Scholar](#agent-3-ot-scholar)
+  - [Agent 4: Gospels Scholar](#agent-4-gospels-scholar)
+  - [Agent 5: Epistles Scholar](#agent-5-epistles-scholar)
+  - [Agent 6: Biblical Theologian](#agent-6-biblical-theologian)
+- [Recurring Roles](#recurring-roles----sola-scriptura-scholar-and-era-judge)
+  - [Sola Scriptura Scholar](#recurring-role-sola-scriptura-scholar)
+  - [Era Judge](#recurring-role-era-judge)
+- [Layer 2: Apostolic / Sub-Apostolic Era](#layer-2-apostolic--sub-apostolic-era-c-30---150-ad----where-debate-begins)
+  - [Agent 7: Apostolic Era Voices](#agent-7-apostolic-era-voices)
+- [Layer 3: Patristic Era](#layer-3-patristic-era-c-150---750-ad)
+  - [Agent 8: Eastern Fathers Voice](#agent-8-eastern-fathers-voice)
+  - [Agent 9: Western Fathers Voice](#agent-9-western-fathers-voice)
+- [Layer 4: Medieval Era](#layer-4-medieval-era-c-750---1500-ad)
+  - [Agent 10: Western Scholastic Voice](#agent-10-western-scholastic-voice)
+  - [Agent 11: Eastern / Hesychast Voice](#agent-11-eastern--hesychast-voice)
+- [Layer 5: Reformation Era](#layer-5-reformation-era-c-1500---1750-ad)
+  - [Agent 12: Reformed Voice](#agent-12-reformed-voice)
+  - [Agent 13: Catholic (Tridentine) Voice](#agent-13-catholic-tridentine-voice)
+  - [Agent 14: Anabaptist Voice](#agent-14-anabaptist-voice----conditional)
+- [Layer 6: Modern Era](#layer-6-modern-era-c-1750---present)
+  - [Agent 15: Modern Reformed Voice](#agent-15-modern-reformed-voice)
+  - [Agent 16: Modern Catholic / Orthodox Voice](#agent-16-modern-catholic--orthodox-voice)
+  - [Agent 17: Modern Wesleyan / Charismatic Voice](#agent-17-modern-wesleyan--charismatic-voice)
+  - [Agent 18: Critical Scholarship](#agent-18-critical-scholarship-brief)
+  - [Agent 19: Global Voices](#agent-19-global-voices-brief)
+- [Layer 7: Synthesis](#layer-7-synthesis----reception-history-timeline-not-a-verdict)
+  - [Agent 20: Reception Historian](#agent-20-reception-historian)
+- [Layer 8: Adaptors](#layer-8-adaptors)
+  - [Agent 21: Theology Scholar](#agent-21-theology-scholar)
+  - [Agent 22: Pastor](#agent-22-pastor)
+  - [Agent 23: Preacher / Evangelist](#agent-23-preacher--evangelist)
+- [Important Guidelines](#important-guidelines)
+
 ## HOW TO USE THIS SYSTEM
 
 When given a topic:
