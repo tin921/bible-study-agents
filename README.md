@@ -23,7 +23,7 @@ The pipeline runs a topic through 5 sequential layers staffed by 12 specialist a
 
 Each agent works only from evidence gathered by prior agents, never from assumptions or English translations alone.
 
-See the full prompt: **[prompts/system-prompt.md](prompts/system-prompt.md)**
+See the full prompt: **[prompts/debate.md](prompts/debate.md)**
 
 ## Research Dossiers
 
@@ -44,7 +44,7 @@ Sample runs of the system are included as worked examples. They were produced by
 Contributions are welcome and encouraged. Good places to start:
 
 - **Run a new topic** through the system and submit the dossier under `research/`.
-- **Refine an agent's role** in [prompts/system-prompt.md](prompts/system-prompt.md) — tighter scope, better guardrails, clearer outputs.
+- **Refine an agent's role** in [prompts/debate.md](prompts/debate.md) — tighter scope, better guardrails, clearer outputs.
 - **Port the prompt** to another model family and report what changes (Gemini, Llama, Mistral, etc.).
 - **Critique a verdict.** If a sample dossier reaches a conclusion you can refute on its own evidence, open an issue with the specific agent and step where you think the reasoning fails.
 
